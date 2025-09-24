@@ -3,9 +3,9 @@
 <package format="3">
   <name>yolosub</name>
   <version>0.0.0</version>
-  <description>TODO: Package description</description>
-  <maintainer email="litcoderwiz@gmail.com">intel</maintainer>
-  <license>TODO: License declaration</license>
+  <description>Yolov5 ROS2 subscription Test</description>
+  <maintainer email="xaqxaq@naver.com">sung</maintainer>
+  <license>MIT</license>
 
   <depend>rclpy</depend>
   <depend>std_msgs</depend>

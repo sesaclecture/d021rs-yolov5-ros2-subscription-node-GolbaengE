@@ -13,10 +13,10 @@ setup(
     ],
     install_requires=['setuptools'],
     zip_safe=True,
-    maintainer='intel',
-    maintainer_email='litcoderwiz@gmail.com',
-    description='TODO: Package description',
-    license='TODO: License declaration',
+    maintainer='sung',
+    maintainer_email='xaqxaq@naver.com',
+    description='Yolov5 ROS2 subscription Test',
+    license='MIT',
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
